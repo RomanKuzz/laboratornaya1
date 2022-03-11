@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="commons-compress-1.21">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.2.1-20220224/poi-bin-5.2.1/ooxml-lib/commons-compress-1.21.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-5.2.1-20220224/poi-bin-5.2.1/ooxml-lib/xmlbeans-5.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Downloads/commons-lang3-3.12.0-bin/commons-lang3-3.12.0/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads" recursive="false" type="SOURCES" />
+  </library>
+</component>
